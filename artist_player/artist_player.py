@@ -1,5 +1,6 @@
 import spotipy
 import echonest.remix.audio as audio
+"""aqplayer written by Luke Stack"""
 from aqplayer import Player
 import urllib2
 
